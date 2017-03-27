@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://114.32.20.53/ios2/COMI.ipa</string>
+					<string>https://github.com/ChairSun/test/raw/master/COMI.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
